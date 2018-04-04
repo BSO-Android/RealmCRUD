@@ -798,7 +798,7 @@ public class AdapterArticle extends RecyclerView.Adapter<AdapterArticle.ViewHold
 
 } 
 ```
-##### Step 7) Update AndroidManifest.xml
+##### Step 8) Update AndroidManifest.xml
 
 Tambahkan kode berikut pada dalam AndroidManifest.xml.
 
@@ -829,7 +829,7 @@ Tambahkan kode berikut pada dalam AndroidManifest.xml.
     </application>
 
 ```
-##### Step 8) Pastikan style.xml
+##### Step 9) Pastikan style.xml
 
 Pastikan style.xml dalam folder values seperti dibawah ini.
 ```xml
